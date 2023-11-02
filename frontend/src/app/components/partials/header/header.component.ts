@@ -1,3 +1,4 @@
+import { Block } from '@angular/compiler';
 import { Component } from '@angular/core';
 
 @Component({
@@ -6,5 +7,17 @@ import { Component } from '@angular/core';
   styleUrls: ['./header.component.css']
 })
 export class HeaderComponent {
+
+  constructor(){
+
+  }
+
+
+
+
+
+
+
+
 
 }
